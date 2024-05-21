@@ -1,0 +1,107 @@
+17. Tříslabičná slova s dvěma dvojicemi souhlásek.
+
+barvírna, bezmocný, bezvadný, bezvětří, cestička, cestovní, cyklista, částečný, čistírna, jablíčko, konvička, konzerva, kormidlo, nadměrný, nákladní, myslivna, naprosto, nasládlý, nástupce, neštěstí, pastýřka, podložka, podmáslí, podrážka, podšívka, pokladna, poklička, pokrývka, pomazánka, pozpátku, pozvánka, pudřenka, půjčovna, roštěnka, rozcestí, sardinka, sídliště, šatnářka, taštička, tiskárna, větrovka, vidlička, vyhlídka, výhrůžka, výstava, zábradlí, žebračka, žehlička.
+
+brusinka, cvičiště, knihovna, královna, plechovka, plovárna, pracovna, prádelna, pravidlo, pravítko, procento, prodejna, procházka, protější, průduška, průměrně, průvodce, průvodčí, předehra, překážka, přepážka, příbuzná, příjemce, přirážka, příručka, schodiště, skořápka, skutečně, sluchátko, směnárna, smetiště, spižírna, stolička, svítilna, škytavka, šlehačka, zdymadlo, zkumavka, zpěvačka, žvýkačka.
+
+protivník, přívozník, slunečník, tlumočník, trolejbus.
+
+pradlena, předloha, předloni, předseda, předtucha, přehrada, přeprava, příjmení, přímluvy, příprava, přísloví, silnice, směrnice, spiknutí, spotřeba, srovnání, stupnice, světnice, štěrbina, švadlena, zpoždění.
+
+bratranec, bratříček, předpověď, předsudek, předvečer, přestupek, přípravek, příspěvek, sportovec, trestanec.
+
+bubnovat, cestopis, cestovat, červenec, listonoš, listopad, náhrobek, nakládat, namluvit, následek, nasnídat, navzájem, nazpaměť, parkovat, petrolej, podnájem, podpatek, podpírat, pohlavek, poplatek, porcelán, poslanec, posluchač, půlměsíc, pytlíček, rozhovor, roznášeč, rozpočet, rozsudek, teploměr, vesničan, výprodej, vyslanec, vyzvědač, zármutek, závdavek, zůstatek.
+
+například, podvodník, pokladník, vykřičník, zahradník.
+
+podrobnost, výslovnost, veřejnost, vodotrysk, poctivost, žárlivost, prezident, zkušenost, zvědavost, předpoklad, příslušník, přítomnost, skutečnost, společnost.
+
+18. Čtyřslabičná slova s dvojicí souhlásek na začátku, na konci a uprostřed.
+
+krupobití, probuzení, promenáda, prominutí, pronikavý, protiváha, provedení, provinění, provolání, pruhovaný, přirozený, slivovice, spálenina, srozumění, tlačenice, zlomenina, zřícenina.
+
+nemovitost, vymoženost, záležitost.
+
+nebezpečí, nemocnice, podezření, pohoršení, pojištění, pomocnice, porodnice, republika, rozespalý, šachovnice, tanečnice, tasemnice, večernice, velezrada, vinobraní, výbušnina, železnice.
+
+rodokmen.
+
+minerálka, nekonečný, nenápadný, peněženka, polobotka, poloviční, ponenáhlu, pozapomněl.
+
+pomazánka, ředitelka, veselohra, vodoléčba, vynálezce, žadatelka, železárna.
+
+učiliště, luštitel, poměrný, podřízený, podvědomí, pohromadě, postavení, potrava, rovnováha, seznámení, těstovina.
+
+pohlednice, rozhodnutí, rozhořčení, vysvědčení, vysvětlení.
+
+naskakovat, následovat, potřebovat.
+
+pracoviště, profesorka, projímadlo, přijatelný, připomínka, spolužačka, spořitelna, stanovisko, stanoviště, šněrovadlo.
+
+posluhovačka, spisovatel, zvěrolékař, předevčírem, prostěradlo, přesnídávka, příležitost, spokojenost.
+
+několikrát, začátečník, dalekohled.
+
+pracovnice, proměnlivý, promyšlený, přirovnání, přítelkyně, slunečnice, spolupráce, zřítelnice.
+
+pojišťovna, tělocvična.
+
+konvalinka, nástupiště, podkolenka, posluchárna, rovnoběžka, velkoměsto, nepříjemnost,
+samostatnost.
+
+prohlášení, předvolání, překvapení, sjednocení, vnitrozemí.
+
+19. Pětislabičná slova.
+
+chumelenice, literatura, lokomotiva, narozeniny, nedůvěřivý, polosyrový, popálenina, sebedůvěra, sebevědomí, Velikonoce, vynalézavý, zavařenina, romanopisec, zapisovatel, železobeton.
+
+dalekosáhlý, parašutista, následující, paprikovaný, pokračování, posluhovačka, novomanželé, sebezapření, dalekozraký, spolumajitel.
+
+nenapravitelný, napodobenina.
+
+20. Jednoslabičná slova s převahou souhlásek.
+
+blesk, bratr, bronz, kmotr, krást, kvést, plášť, plést, sjezd, smysl, sport, start, stisk, svetr, šperk, štěrk, švagr, trest, vlast, vjezd, zlost.
+
+21. Slova s třemi souhláskami na začátku a na konci.
+
+hlt, hrb, krb, krk, mls, plk, srp, trn, vlk, vrch.
+
+brzda, hrdo, mlsný, mrtvý, prkno, sprcha, srdce, vrchní, zprvu.
+
+brzo, hrdý, mlha, morda, sklo, slza, srna, tma, tni, vlna, vrba, vrká, zrno.
+
+hltat, hrnec, hrnek, hrtan, hnout, hřmět, krmit, mlčet, mlsek, mrkat, mrkev, mrzák, mrzet, sklad.
+sklář, sklep, sklon, skříň, splav, srnec, srpen, sršeň, stlát, strach, stráň, stráž, stroj, strom, stop, strup, strýc, střed, střih, škrob, vklad, vlčák, vpřed, vrchol, vršek, vrták, vstup, vzdech, vzor, vzduch, vzlykat, vznik, vzrůst, vztah, zbraň, zdviž.
+
+hrbatý, hrdina, krmivo, mdloba, mrzutý, mstivý, správa, strana, strava, struna, středa, střecha, střela, střevo, střídá, vpravo, vrtule, zdraví, zpráva, ztráta.
+
+prkénko, schránka, skladba, sklárna, skříňka, splátka, správce, stránka, střelba, stříbro, tržiště, vstupné, zblízka, zkrátka, zrcadlo, zrníčko.
+
+hřbitov, čtverec, skleník, sklizeň, skrojek, strojek, skřivan, strašit, střelec, škvarek, zvláštní.
+
+sdružení, shledání, sklenice, střelivo, vzdělání.
+
+stromořadí, zpronevěra, skladatel, zpravodaj.
+
+vzdálenost, zdvořilost, zvláštnost, strážník, středník.
+
+lustr, návrh, pokrm, povrch, ministr, veletrh, průtrž.
+
+22. Slova s třemi souhláskami uprostřed.
+
+horský, jablko, jiskra, kostka, kostra, mandle, místní, mořský, pestrý, pomsta, půjčka, sestra, teprve, větrný, vojsko, žactvo, švestka, vlastně, zpustlý, propustka, svědectví, prázdniny, předmluva, představa, zpovzdálí, vlastnost, přístroj, špendlík, jestřáb, náčrtek, naplnit, naschvál, nástroj, památník, paprsek, petržel, polštář, portrét, povzdech, rozhlas, rozhled, rozvrat, výstroj, výstřel, výstřih, výzbroj, ředkvička, návštěvník, naškrobit, polštářek, povstalec, rozmluvit, rozmnožit, pohodlný, pojistka, pokojská, tenistka, polovlněný, samospráva, zaměstnání, sestřenice, řemeslník, nadlidský, nadmořský, podmořský, řeznictví, rozkvést, místnost, rozprašovač, prostředek, přístřešek, prostředník, předplacení, papírnictví, vyslanectví, nepřátelství, shromáždění, náhrdelník, spravedlnost.
+
+23. Slova se shlukem čtyř souhlásek.
+
+hrst, prst, smrt, skrz, srst, tvrz.
+
+mrtvice, mrtvola, trhlina, tržnice, tvrzení, mrknout, mrznout, prsten, pstruh, šplhat, tvrdit, vstříc, vlhkost, prsteník, prstýnek, vlhkoměr, tržiště.
+
+rozvrh, záškrt, předkrm.
+
+školství, žhářství, čerstvý, mužstvo, nejprve, panství, pomlčka, vývrtka, potvrzení, překvapit, potomstvo, sochařství, tajemství, vinařství, vítězství, přátelství, včelařství, ředitelství, sklenářství, náprstek, navlhčit, petrklíč, rejstřík, nesplnitelný, rozškrábat.
+
+24. Slova se shlukem pěti souhlásek.
+
+mrštný, skvrna, srstka, vrstva, zmrzlina, čtvrtek, svrchník, stvrzenka, roztržka.
